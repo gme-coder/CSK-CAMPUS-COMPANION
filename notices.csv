@@ -1,0 +1,61 @@
+text,category,date,venue,audience
+"CAT 1 for Data Structures (CSC 201) will be held on Thursday 12th November at 2:00 PM in LH3. Students should carry their student IDs.",Exam,2026-11-12,LH3,Year 2 Computer Science
+"Guys CAT for Database Systems is on Wednesday 11th at 9am, Lab 4. Dont be late!!",Exam,2026-11-11,Lab 4,Year 3 IT
+"The end-of-semester examination timetable has been released. Check the student portal under Exams then Timetable.",Exam,,Student portal,All students
+"Supplementary exams registration closes on 8th December 2026. Register at the Examinations Office.",Exam,2026-12-08,Examinations Office,Students with supplementary exams
+"Exam cards must be collected from your department by Monday 16th November. No card, no exam.",Exam,2026-11-16,Department offices,All students
+"Submit your CAT 2 appeal letters to the Dean's office by Thursday 19th November.",Exam,2026-11-19,Dean's office,Students appealing CAT results
+"All students are reminded to clear their Semester 2 fee balances by 10th November 2026. Late payment will attract a penalty.",Fees,2026-11-10,,All students
+"Fees can now be paid via M-Pesa Paybill 123456. Use your admission number as the account number.",Fees,,,All students
+"Students with fee balances above KES 20,000 will not be allowed to sit end-of-semester exams.",Fees,,,Students with fee balances
+"The revised fee structure for the 2026/2027 academic year is available at the Finance Office and on the university website.",Fees,,Finance Office,All students
+"Pliz clear ur fees before 20th, finance office says no clearance for anyone with a balance.",Fees,2026-11-20,Finance Office,All students
+"Fee statements can be downloaded from the student portal. If you find discrepancies, visit the Finance Office with your receipts by Friday 13th November.",Fees,2026-11-13,Finance Office,All students
+"The Computer Society of Kirinyaga invites you to a hands-on Python workshop this Saturday 7th November at 10:00 AM, Computer Lab 2. All are welcome.",Event,2026-11-07,Computer Lab 2,All students
+"Career Fair 2026 will be held on Friday 20th November at the Main Hall from 9 AM. Over 30 employers will attend.",Event,2026-11-20,Main Hall,All students
+"Inter-faculty football tournament kicks off Saturday 14th at the main pitch. Come cheer your faculty!",Event,2026-11-14,Main pitch,All students
+"Hackathon registration closes Wednesday 11th November. The 24-hour event starts Friday 13th at the Innovation Hub.",Event,2026-11-13,Innovation Hub,All students
+"Guest lecture: Careers in Data Science with a senior data lead. Tuesday 17th November, 3 PM, LH1.",Event,2026-11-17,LH1,All students
+"The graduation ceremony for the Class of 2026 will take place on Friday 4th December at the university grounds. Families are welcome.",Event,2026-12-04,University grounds,Graduating students
+"Unit registration for Semester 2 closes on Sunday 15th November 2026. Register through the student portal.",Deadline,2026-11-15,Student portal,All continuing students
+"Final year project proposals are due on Monday 16th November. Submit a soft copy to your supervisor.",Deadline,2026-11-16,,Final year students
+"Reminder: the last day to add or drop units is Friday 13th November. No changes after this date.",Deadline,2026-11-13,Registrar's office,All students
+"Deferment requests for Semester 2 should reach the Registrar's office by 27th November.",Deadline,2026-11-27,Registrar's office,Students seeking deferment
+"Assignment 3 for Operating Systems is due this Friday 5pm on the e-learning platform. No late submissions.",Deadline,2026-11-06,E-learning platform,Year 3 Computer Science
+"Register for graduation clearance by 30th November. Collect the clearance form from your department.",Deadline,2026-11-30,Department offices,Final year students
+"HELB loan applications for continuing students are now open. Apply through the HELB portal before the window closes on 30th November.",Scholarship,2026-11-30,HELB portal,Continuing students
+"University Bursary Fund applications are open for students facing financial hardship. Forms are available at the Dean of Students office.",Scholarship,,Dean of Students office,Students facing financial hardship
+"A partner tech company is offering a monthly stipend internship to 10 final-year Computer Science students. Apply by 25th November via the Career Office.",Scholarship,2026-11-25,Career Office,Final year Computer Science
+"Merit scholarship for students with a GPA of 3.5 and above. Applications are open until 4th December at the Academic Office.",Scholarship,2026-12-04,Academic Office,Students with GPA 3.5 and above
+"Bursary results for the 2026 intake have been released. Successful students should confirm acceptance at the Dean's office within 7 days.",Scholarship,,Dean's office,Bursary applicants
+"Hey guys, the women in tech scholarship is open, check with the Dean of Students. Deadline 18th Nov.",Scholarship,2026-11-18,Dean of Students office,Female students in tech
+"The library will close at 5 PM on Friday 6th November for maintenance.",General,2026-11-06,Library,All students
+"All students are reminded to carry their ID cards at all times while on campus.",General,,,All students
+"Water supply will be interrupted on Saturday 7th November from 8 AM to 2 PM due to repair works.",General,2026-11-07,Campus-wide,All students
+"Lost: a black Casio calculator in LH2. If found, please take it to the security office.",General,,Security office,All students
+"Due to road construction, the shuttle to the main gate will use an alternative route from Monday 9th November.",General,2026-11-09,Main gate,All students
+"The student ID replacement service is now available at the Registrar's office, Monday to Friday, 8 AM to 4:30 PM.",General,,Registrar's office,All students
+"Practical exam for Computer Networks will be held in Lab 1 on Tuesday 17th November at 8:00 AM. Bring your own patch cables.",Exam,2026-11-17,Lab 1,Year 3 IT
+"cat tmrw 10am LH5 Probability and Statistics, bring ur own calculator",Exam,2026-11-04,LH5,Year 1 students
+"Students who missed CAT 1 due to illness must present a medical report to the Chairman of Department by Friday 20th November to be considered for a special sitting.",Exam,2026-11-20,Chairman's office,Students who missed CAT 1
+"The Finance Office will be open on Saturday 14th November from 9 AM to 1 PM to assist students with fee payments and receipts.",Fees,2026-11-14,Finance Office,All students
+"Students unable to pay fees in full may apply for an instalment plan at the Finance Office before 12th November.",Fees,2026-11-12,Finance Office,Students with fee balances
+"Refunds for overpaid fees will only be processed after all outstanding charges are cleared. Bring your bank details to the Finance Office.",Fees,,Finance Office,Students with overpayments
+"Cybersecurity awareness talk by industry experts on Wednesday 18th November at 4 PM in LH2. Certificates for all attendees.",Event,2026-11-18,LH2,All students
+"Blood donation drive at the Student Centre on Monday 23rd November, 9 AM to 3 PM. Come donate a pint and save a life!",Event,2026-11-23,Student Centre,All students
+"Drama club auditions on Saturday 21st November at 2 PM, Theatre Hall. New members welcome.",Event,2026-11-21,Theatre Hall,All students
+"Industrial attachment logbooks must be submitted to the Attachment Office by Wednesday 25th November.",Deadline,2026-11-25,Attachment Office,Year 3 students on attachment
+"Web Development group project submission is this Thursday at midnight on the e-learning page. No extensions will be given.",Deadline,2026-11-05,E-learning platform,Year 2 IT
+"Students wishing to change their course must submit the application form to the Registrar by 27th November 2026.",Deadline,2026-11-27,Registrar's office,Students seeking a course change
+"Applications for the County Government Education Bursary close on 20th November. Collect forms from the Ward Administrator's office.",Scholarship,2026-11-20,Ward Administrator's office,Needy students in the county
+"A tech-sector sponsor is offering laptop scholarships to 15 outstanding Year 2 and Year 3 computing students. Apply via the Career Office by 28th November.",Scholarship,2026-11-28,Career Office,Year 2 and 3 computing students
+"Parking at the main gate is restricted this Friday due to a visiting delegation. Please use the side gate.",General,2026-11-06,Main gate,All students
+"Hostel Wi-Fi will be down for upgrades on Sunday 8th November from 10 PM to 6 AM.",General,2026-11-08,Hostels,Hostel residents
+"Cat 2 for CSY2 will be on 23 November at JSM.",Exam,2026-11-23,JSM,Year 2 Computer Science
+"Pay fees by 10th Nov or you won't sit for exams.",Fees,2026-11-10,,All students
+"Hackathon registration closes Wednesday. Register at Uppermess.",Event,2026-11-04,Uppermess,All students
+"HELB application closes on Friday.",Scholarship,2026-11-06,,All students
+"Register for graduation by 30th Nov.",Deadline,2026-11-30,,Final year students
+"Exam cards must be collected by Monday.",Exam,2026-11-09,,All students
+"First-year students with the top CAT averages can apply for the alumni sponsorship fund. Submit your application to the Academic Office by 2nd December.",Scholarship,2026-12-02,Academic Office,Year 1 students
+"The cafeteria will now open at 6:30 AM on weekdays starting Monday 9th November.",General,2026-11-09,Cafeteria,All students
