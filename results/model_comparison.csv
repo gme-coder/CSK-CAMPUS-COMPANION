@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,f1_std
+TF-IDF + LogReg,0.583,0.565,0.135
+Embeddings + LogReg,0.817,0.809,0.105
